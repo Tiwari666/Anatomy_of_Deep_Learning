@@ -162,6 +162,10 @@ D) Multilabel Classification—Sigmoid [0,1]
 --The activation function used in hidden layers is typically chosen based on the type of neural network architecture.
 
 E) Convolutional Neural Network (CNN): ReLU activation function
+![image](https://github.com/Tiwari666/Anatomy_of_Deep_Learning/assets/153152895/1480c331-86f1-4de3-b5e2-db58ba945ef0)
+
+
+![image](https://github.com/Tiwari666/Anatomy_of_Deep_Learning/assets/153152895/c58d9707-dc27-409b-9b4c-bc41462633c3)
 
 F) Recurrent Neural Network: Tanh and/or Sigmoid activation function
 
