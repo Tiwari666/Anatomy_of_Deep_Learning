@@ -169,6 +169,11 @@ E) Convolutional Neural Network (CNN): ReLU activation function
 
 F) Recurrent Neural Network: Tanh and/or Sigmoid activation function
 
+The tanh (hyperbolic tangent) activation function is a commonly used activation function in neural networks, especially in hidden layers. It shares similarities with the sigmoid function but outputs values in the range (−1,1), making it centered at zero. 
+
+![image](https://github.com/Tiwari666/Anatomy_of_Deep_Learning/assets/153152895/492af839-bc5f-4f79-9bec-9ace6ae15b4d)
+
+
 # CONCLUSION:
 As a rule of thumb, we can begin with using the ReLU activation function and then move over to other activation functions if ReLU doesn’t provide optimum results.
 
